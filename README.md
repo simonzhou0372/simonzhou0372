@@ -34,7 +34,7 @@
   >> ## 联系我
   >> 紧急联系请用QQ 1940736476
   >>
-  >> E-mail: simonzhou0372@163.com
+  >> E-mail: simonzhou0372@163.com   xianglahuoguoji@gmail.com
   >>
   >> 个人网站： http://139.224.82.162/wordpress/ （还没买域名，我会尽快补上。）
   >>
