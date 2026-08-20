@@ -148,7 +148,7 @@ Developed an **STM32 + OpenMV vision-guided gimbal**, implementing color blob an
     <td width="50%" valign="top">
       <h3>🖥️ Neo Serial Assistant</h3>
       <p>
-        A desktop serial debugging and real-time monitoring tool built with
+        An easy to use desktop serial debugging and real-time monitoring tool built with
         <strong>C++</strong>, <strong>Qt Quick</strong>, and <strong>QML</strong>.
       </p>
       <ul>
@@ -161,7 +161,6 @@ Developed an **STM32 + OpenMV vision-guided gimbal**, implementing color blob an
         <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white">
         <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white">
         <img src="https://img.shields.io/badge/QML-41CD52?style=flat-square&logo=qt&logoColor=white">
-        <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white">
       </p>
       <p>
       <a href="https://github.com/neo-embbed/neo-serial-gui">
