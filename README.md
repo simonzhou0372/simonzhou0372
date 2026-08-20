@@ -87,7 +87,7 @@
 ### 🛠️ Experience
 
 #### HVAC Embedded Control & CAN/LIN Communication
-**Spring 2026 · Laboratory Industry–University Collaborative Project**
+**Autumn 2025 - Spring 2026 · Laboratory Industry–University Collaborative Project**
 
 Developed **CAN drivers, protocol parsing, and application-level CAN frames** for an HVAC embedded control system.  
 Also involved in **CAN/LIN debugging, waveform inspection, and embedded control integration**.
