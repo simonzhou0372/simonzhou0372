@@ -108,6 +108,13 @@ Participated in firmware development, hardware debugging, and prototype integrat
 ![BLE](https://img.shields.io/badge/BLE-0082FC?style=flat-square&logo=bluetooth&logoColor=white)
 ![PCB](https://img.shields.io/badge/PCB-333333?style=flat-square)
 
+#### 🏆 Electronic Design Competition — Vision-Guided Gimbal
+**Summer 2023 · College Program**
+
+Developed an **STM32 + OpenMV vision-guided gimbal**, implementing color blob and rectangle detection, target position estimation, and UART-based communication between the vision module and MCU.
+
+`STM32` `OpenMV` `Python` `C` `Computer Vision` `UART` `Servo`
+
 ---
 
 ### 🚀 Featured Projects
