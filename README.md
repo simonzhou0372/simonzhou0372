@@ -78,7 +78,7 @@
   </a>
 </div>
 
-### Say Something
+### 💭 Say Something
 
 ~~~
 2026.08.20 - Currently In a good mood willing to study linux developing from scratch
@@ -86,7 +86,7 @@
 
 ### 🛠️ Experience
 
-#### HVAC Embedded Control & CAN/LIN Communication
+#### ❄️ HVAC Embedded Control & CAN/LIN Communication
 **Autumn 2025 - Spring 2026 · Laboratory Industry–University Collaborative Project**
 
 Developed **CAN drivers, protocol parsing, and application-level CAN frames** for an HVAC embedded control system.  
@@ -97,7 +97,7 @@ Also involved in **CAN/LIN debugging, waveform inspection, and embedded control 
 ![CAN](https://img.shields.io/badge/CAN-00599C?style=flat-square)
 ![LIN](https://img.shields.io/badge/LIN-6C757D?style=flat-square)
 
-#### Embedded Systems & STEM Engineering Mentor
+#### 🎓 Embedded Systems & STEM Engineering Mentor
 **Summer 2024 · Engineering Education Internship**
 
 Mentored students in hands-on embedded projects covering **Arduino, ESP32, sensors, BLE, PCB design, and electromechanical systems**.  
