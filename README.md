@@ -55,7 +55,16 @@
   </tr>
 </table>
 
-### 📫 Reach Me On
+
+#### 💬 Blog
+
+<div style="text-align: center;" align="left">
+  <a href="https://guest114514.cn/" target="_blank" style="text-decoration: none">
+    <img src="https://img.shields.io/badge/guest114514.cn-F88900?style=for-the-badge&logo=rss&logoColor=white" style="display: inline-block;" alt="guest114514.cn" />
+  </a>
+</div>
+
+#### 📫 Reach Me On
 
 <div style="text-align: center;" align="left">
   <a href="mailto:xianglahuoguoji@gmail.com" target="_blank" style="text-decoration: none">
