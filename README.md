@@ -1,9 +1,9 @@
-# SimonZhou0372
+## SimonZhou0372
   🎓 Electronic Information Engineering Graduate Student
   
   🔧 Embedded Systems · Hardware · Communication · Control
 
-## 💻 Tech Stack
+### 💻 Tech Stack
 
 <table>
   <tr>
@@ -75,9 +75,9 @@
 2026.08.20 - Currently In a good mood willing to study linux developing from scratch
 ~~~
 
-## 🛠️ Experience
+### 🛠️ Experience
 
-### HVAC Embedded Control & CAN/LIN Communication
+#### HVAC Embedded Control & CAN/LIN Communication
 **Spring 2026 · Laboratory Industry–University Collaborative Project**
 
 Developed **CAN drivers, protocol parsing, and application-level CAN frames** for an HVAC embedded control system.  
@@ -88,7 +88,7 @@ Also involved in **CAN/LIN debugging, waveform inspection, and embedded control 
 ![CAN](https://img.shields.io/badge/CAN-00599C?style=flat-square)
 ![LIN](https://img.shields.io/badge/LIN-6C757D?style=flat-square)
 
-### Embedded Systems & STEM Engineering Mentor
+#### Embedded Systems & STEM Engineering Mentor
 **Summer 2024 · Engineering Education Internship**
 
 Mentored students in hands-on embedded projects covering **Arduino, ESP32, sensors, BLE, PCB design, and electromechanical systems**.  
@@ -101,7 +101,7 @@ Participated in firmware development, hardware debugging, and prototype integrat
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
 <table>
   <tr>
@@ -158,7 +158,7 @@ Participated in firmware development, hardware debugging, and prototype integrat
 
 ---
 
-## 📂 Other Projects
+### 📂 Other Projects
 
 | Project | Description | Technologies |
 |:---|:---|:---|
@@ -168,9 +168,9 @@ Participated in firmware development, hardware debugging, and prototype integrat
 
 ---
 
-## 🔬 Research
+### 🔬 Research
 
-### Underwater Acoustic Communication
+#### Underwater Acoustic Communication
 
 Reconfigurable **4FSK-based underwater acoustic image transmission** and communication-system simulation.
 
