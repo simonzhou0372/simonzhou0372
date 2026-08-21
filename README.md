@@ -179,7 +179,7 @@ Developed an **STM32 + OpenMV vision-guided gimbal**, implementing color blob an
 |:---|:---|:---|
 | [Sutoka Cyan](https://github.com/simonzhou0372/sutoka-cyan) | An one-stop cross-platform app for multi-types media exploring | `Dart` `HTML` |
 | [Heart River](https://github.com/simonzhou0372/HeartRiver) | An open-world game style travelling checklist | `JavaScript` |
-| [Touhou MIDI Viewer](https://github.com/simonzhou0372/TouhouMIDIViewer) | Under Construction | `C#`  |
+| [Touhou MIDI Viewer](https://github.com/simonzhou0372/TouhouMIDIViewer) | A midi viewer for earlier touhou games, compatable for 16:9 screen recording | `C#`  |
 
 ---
 
