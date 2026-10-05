@@ -82,6 +82,7 @@
 
 ~~~
 2026.08.20 - Currently In a good mood willing to study linux developing from scratch
+2026.10.05 - Now can't control myself from end up using vibe coding
 ~~~
 
 ### 🛠️ Experience
@@ -187,7 +188,7 @@ Developed an **STM32 + OpenMV vision-guided gimbal**, implementing color blob an
 
 #### Underwater Acoustic Communication
 
-Reconfigurable **4FSK-based underwater acoustic image transmission** and communication-system simulation.
+Reconfigurable **4FSK-based underwater acoustic real time video transmission** and communication-system simulation.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
